@@ -1,0 +1,11 @@
+Package: fortify
+Type: Package
+Title: Fortify models (and other objects) to convert them
+    into data frames that be more easily visualised.
+Version: 0.0.0
+Author: Hadley Wickham <h.wickham@gmail.com>
+Maintainer: Hadley Wickham <h.wickham@gmail.com>
+Description:
+License: MIT
+LazyLoad: yes
+Collate: 'fortify-lm.r' 'fortify.r'
